@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/",
-      "dest": "/index.html"
+      "dest": "/clean%20data/ipl_dashboard_pro.html"
     }
   ]
 }
