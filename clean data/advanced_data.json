@@ -1,0 +1,1051 @@
+{
+  "h2h": [
+    {
+      "teamA": "Kolkata Knight Riders",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 20,
+      "teamBWins": 16,
+      "totalMatches": 36
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Punjab Kings",
+      "teamAWins": 16,
+      "teamBWins": 16,
+      "totalMatches": 32
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Rajasthan Royals",
+      "teamAWins": 16,
+      "teamBWins": 15,
+      "totalMatches": 31
+    },
+    {
+      "teamA": "Kolkata Knight Riders",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 27,
+      "teamBWins": 13,
+      "totalMatches": 40
+    },
+    {
+      "teamA": "Mumbai Indians",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 19,
+      "teamBWins": 16,
+      "totalMatches": 35
+    },
+    {
+      "teamA": "Punjab Kings",
+      "teamB": "Rajasthan Royals",
+      "teamAWins": 12,
+      "teamBWins": 18,
+      "totalMatches": 30
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 18,
+      "teamBWins": 18,
+      "totalMatches": 36
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Mumbai Indians",
+      "teamAWins": 20,
+      "teamBWins": 21,
+      "totalMatches": 41
+    },
+    {
+      "teamA": "Rajasthan Royals",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 17,
+      "teamBWins": 16,
+      "totalMatches": 33
+    },
+    {
+      "teamA": "Mumbai Indians",
+      "teamB": "Punjab Kings",
+      "teamAWins": 18,
+      "teamBWins": 17,
+      "totalMatches": 35
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Kolkata Knight Riders",
+      "teamAWins": 21,
+      "teamBWins": 11,
+      "totalMatches": 32
+    },
+    {
+      "teamA": "Rajasthan Royals",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 15,
+      "teamBWins": 17,
+      "totalMatches": 32
+    },
+    {
+      "teamA": "Mumbai Indians",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 20,
+      "teamBWins": 15,
+      "totalMatches": 35
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Punjab Kings",
+      "teamAWins": 17,
+      "teamBWins": 18,
+      "totalMatches": 35
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 21,
+      "teamBWins": 14,
+      "totalMatches": 35
+    },
+    {
+      "teamA": "Kolkata Knight Riders",
+      "teamB": "Mumbai Indians",
+      "teamAWins": 12,
+      "teamBWins": 25,
+      "totalMatches": 37
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 13,
+      "teamBWins": 20,
+      "totalMatches": 33
+    },
+    {
+      "teamA": "Punjab Kings",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 15,
+      "teamBWins": 21,
+      "totalMatches": 36
+    },
+    {
+      "teamA": "Kolkata Knight Riders",
+      "teamB": "Rajasthan Royals",
+      "teamAWins": 17,
+      "teamBWins": 12,
+      "totalMatches": 29
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Delhi Capitals",
+      "teamAWins": 21,
+      "teamBWins": 12,
+      "totalMatches": 33
+    },
+    {
+      "teamA": "Royal Challengers Bengaluru",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 17,
+      "teamBWins": 20,
+      "totalMatches": 37
+    },
+    {
+      "teamA": "Kolkata Knight Riders",
+      "teamB": "Punjab Kings",
+      "teamAWins": 21,
+      "teamBWins": 13,
+      "totalMatches": 34
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Mumbai Indians",
+      "teamAWins": 17,
+      "teamBWins": 21,
+      "totalMatches": 38
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Rajasthan Royals",
+      "teamAWins": 16,
+      "teamBWins": 16,
+      "totalMatches": 32
+    },
+    {
+      "teamA": "Punjab Kings",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 18,
+      "teamBWins": 20,
+      "totalMatches": 38
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 21,
+      "teamBWins": 13,
+      "totalMatches": 34
+    },
+    {
+      "teamA": "Mumbai Indians",
+      "teamB": "Rajasthan Royals",
+      "teamAWins": 16,
+      "teamBWins": 16,
+      "totalMatches": 32
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Kolkata Knight Riders",
+      "teamAWins": 15,
+      "teamBWins": 20,
+      "totalMatches": 35
+    },
+    {
+      "teamA": "Kochi Tuskers Kerala",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 0,
+      "teamBWins": 2,
+      "totalMatches": 2
+    },
+    {
+      "teamA": "Pune Warriors",
+      "teamB": "Punjab Kings",
+      "teamAWins": 3,
+      "teamBWins": 3,
+      "totalMatches": 6
+    },
+    {
+      "teamA": "Kochi Tuskers Kerala",
+      "teamB": "Pune Warriors",
+      "teamAWins": 0,
+      "teamBWins": 1,
+      "totalMatches": 1
+    },
+    {
+      "teamA": "Kochi Tuskers Kerala",
+      "teamB": "Mumbai Indians",
+      "teamAWins": 1,
+      "teamBWins": 0,
+      "totalMatches": 1
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Pune Warriors",
+      "teamAWins": 3,
+      "teamBWins": 2,
+      "totalMatches": 5
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Kochi Tuskers Kerala",
+      "teamAWins": 1,
+      "teamBWins": 1,
+      "totalMatches": 2
+    },
+    {
+      "teamA": "Mumbai Indians",
+      "teamB": "Pune Warriors",
+      "teamAWins": 5,
+      "teamBWins": 1,
+      "totalMatches": 6
+    },
+    {
+      "teamA": "Kochi Tuskers Kerala",
+      "teamB": "Kolkata Knight Riders",
+      "teamAWins": 2,
+      "teamBWins": 0,
+      "totalMatches": 2
+    },
+    {
+      "teamA": "Kochi Tuskers Kerala",
+      "teamB": "Rajasthan Royals",
+      "teamAWins": 1,
+      "teamBWins": 1,
+      "totalMatches": 2
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Pune Warriors",
+      "teamAWins": 4,
+      "teamBWins": 2,
+      "totalMatches": 6
+    },
+    {
+      "teamA": "Kochi Tuskers Kerala",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 0,
+      "teamBWins": 1,
+      "totalMatches": 1
+    },
+    {
+      "teamA": "Pune Warriors",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 0,
+      "teamBWins": 5,
+      "totalMatches": 5
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Kochi Tuskers Kerala",
+      "teamAWins": 1,
+      "teamBWins": 1,
+      "totalMatches": 2
+    },
+    {
+      "teamA": "Pune Warriors",
+      "teamB": "Rajasthan Royals",
+      "teamAWins": 1,
+      "teamBWins": 4,
+      "totalMatches": 5
+    },
+    {
+      "teamA": "Pune Warriors",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 1,
+      "teamBWins": 5,
+      "totalMatches": 6
+    },
+    {
+      "teamA": "Kochi Tuskers Kerala",
+      "teamB": "Punjab Kings",
+      "teamAWins": 0,
+      "teamBWins": 1,
+      "totalMatches": 1
+    },
+    {
+      "teamA": "Kolkata Knight Riders",
+      "teamB": "Pune Warriors",
+      "teamAWins": 4,
+      "teamBWins": 1,
+      "totalMatches": 5
+    },
+    {
+      "teamA": "Mumbai Indians",
+      "teamB": "Rising Pune Supergiants",
+      "teamAWins": 2,
+      "teamBWins": 4,
+      "totalMatches": 6
+    },
+    {
+      "teamA": "Gujarat Lions",
+      "teamB": "Punjab Kings",
+      "teamAWins": 2,
+      "teamBWins": 2,
+      "totalMatches": 4
+    },
+    {
+      "teamA": "Gujarat Lions",
+      "teamB": "Rising Pune Supergiants",
+      "teamAWins": 3,
+      "teamBWins": 1,
+      "totalMatches": 4
+    },
+    {
+      "teamA": "Gujarat Lions",
+      "teamB": "Mumbai Indians",
+      "teamAWins": 2,
+      "teamBWins": 1,
+      "totalMatches": 3
+    },
+    {
+      "teamA": "Punjab Kings",
+      "teamB": "Rising Pune Supergiants",
+      "teamAWins": 2,
+      "teamBWins": 2,
+      "totalMatches": 4
+    },
+    {
+      "teamA": "Gujarat Lions",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 0,
+      "teamBWins": 5,
+      "totalMatches": 5
+    },
+    {
+      "teamA": "Rising Pune Supergiants",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 2,
+      "teamBWins": 2,
+      "totalMatches": 4
+    },
+    {
+      "teamA": "Gujarat Lions",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 2,
+      "teamBWins": 3,
+      "totalMatches": 5
+    },
+    {
+      "teamA": "Kolkata Knight Riders",
+      "teamB": "Rising Pune Supergiants",
+      "teamAWins": 3,
+      "teamBWins": 1,
+      "totalMatches": 4
+    },
+    {
+      "teamA": "Rising Pune Supergiants",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 3,
+      "teamBWins": 1,
+      "totalMatches": 4
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Gujarat Lions",
+      "teamAWins": 3,
+      "teamBWins": 1,
+      "totalMatches": 4
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Rising Pune Supergiants",
+      "teamAWins": 2,
+      "teamBWins": 2,
+      "totalMatches": 4
+    },
+    {
+      "teamA": "Gujarat Lions",
+      "teamB": "Kolkata Knight Riders",
+      "teamAWins": 3,
+      "teamBWins": 1,
+      "totalMatches": 4
+    },
+    {
+      "teamA": "Gujarat Titans",
+      "teamB": "Lucknow Super Giants",
+      "teamAWins": 5,
+      "teamBWins": 3,
+      "totalMatches": 8
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Lucknow Super Giants",
+      "teamAWins": 3,
+      "teamBWins": 4,
+      "totalMatches": 7
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Gujarat Titans",
+      "teamAWins": 3,
+      "teamBWins": 5,
+      "totalMatches": 8
+    },
+    {
+      "teamA": "Lucknow Super Giants",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 5,
+      "teamBWins": 2,
+      "totalMatches": 7
+    },
+    {
+      "teamA": "Delhi Capitals",
+      "teamB": "Lucknow Super Giants",
+      "teamAWins": 5,
+      "teamBWins": 3,
+      "totalMatches": 8
+    },
+    {
+      "teamA": "Gujarat Titans",
+      "teamB": "Punjab Kings",
+      "teamAWins": 4,
+      "teamBWins": 4,
+      "totalMatches": 8
+    },
+    {
+      "teamA": "Lucknow Super Giants",
+      "teamB": "Rajasthan Royals",
+      "teamAWins": 2,
+      "teamBWins": 6,
+      "totalMatches": 8
+    },
+    {
+      "teamA": "Gujarat Titans",
+      "teamB": "Sunrisers Hyderabad",
+      "teamAWins": 6,
+      "teamBWins": 1,
+      "totalMatches": 7
+    },
+    {
+      "teamA": "Gujarat Titans",
+      "teamB": "Rajasthan Royals",
+      "teamAWins": 8,
+      "teamBWins": 3,
+      "totalMatches": 11
+    },
+    {
+      "teamA": "Lucknow Super Giants",
+      "teamB": "Mumbai Indians",
+      "teamAWins": 6,
+      "teamBWins": 3,
+      "totalMatches": 9
+    },
+    {
+      "teamA": "Chennai Super Kings",
+      "teamB": "Gujarat Titans",
+      "teamAWins": 4,
+      "teamBWins": 6,
+      "totalMatches": 10
+    },
+    {
+      "teamA": "Lucknow Super Giants",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 3,
+      "teamBWins": 5,
+      "totalMatches": 8
+    },
+    {
+      "teamA": "Gujarat Titans",
+      "teamB": "Kolkata Knight Riders",
+      "teamAWins": 4,
+      "teamBWins": 2,
+      "totalMatches": 6
+    },
+    {
+      "teamA": "Lucknow Super Giants",
+      "teamB": "Punjab Kings",
+      "teamAWins": 3,
+      "teamBWins": 5,
+      "totalMatches": 8
+    },
+    {
+      "teamA": "Gujarat Titans",
+      "teamB": "Royal Challengers Bengaluru",
+      "teamAWins": 4,
+      "teamBWins": 6,
+      "totalMatches": 10
+    },
+    {
+      "teamA": "Gujarat Titans",
+      "teamB": "Mumbai Indians",
+      "teamAWins": 5,
+      "teamBWins": 4,
+      "totalMatches": 9
+    },
+    {
+      "teamA": "Kolkata Knight Riders",
+      "teamB": "Lucknow Super Giants",
+      "teamAWins": 2,
+      "teamBWins": 5,
+      "totalMatches": 7
+    }
+  ],
+  "venue_insights": [
+    {
+      "venue": "Arun Jaitley Stadium",
+      "matches": 13,
+      "batFirstWins": 7,
+      "fieldFirstWins": 6,
+      "batFirstPct": 53.8,
+      "fieldFirstPct": 46.2,
+      "dominantTeam": "Delhi Capitals"
+    },
+    {
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "matches": 29,
+      "batFirstWins": 13,
+      "fieldFirstWins": 16,
+      "batFirstPct": 44.8,
+      "fieldFirstPct": 55.2,
+      "dominantTeam": "Delhi Capitals"
+    },
+    {
+      "venue": "Barabati Stadium",
+      "matches": 7,
+      "batFirstWins": 4,
+      "fieldFirstWins": 3,
+      "batFirstPct": 57.1,
+      "fieldFirstPct": 42.9,
+      "dominantTeam": "Sunrisers Hyderabad"
+    },
+    {
+      "venue": "Barsapara Cricket Stadium, Guwahati",
+      "matches": 8,
+      "batFirstWins": 4,
+      "fieldFirstWins": 4,
+      "batFirstPct": 50.0,
+      "fieldFirstPct": 50.0,
+      "dominantTeam": "Rajasthan Royals"
+    },
+    {
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "matches": 27,
+      "batFirstWins": 11,
+      "fieldFirstWins": 16,
+      "batFirstPct": 40.7,
+      "fieldFirstPct": 59.3,
+      "dominantTeam": "Lucknow Super Giants"
+    },
+    {
+      "venue": "Brabourne Stadium",
+      "matches": 10,
+      "batFirstWins": 6,
+      "fieldFirstWins": 4,
+      "batFirstPct": 60.0,
+      "fieldFirstPct": 40.0,
+      "dominantTeam": "Mumbai Indians"
+    },
+    {
+      "venue": "Brabourne Stadium, Mumbai",
+      "matches": 17,
+      "batFirstWins": 8,
+      "fieldFirstWins": 9,
+      "batFirstPct": 47.1,
+      "fieldFirstPct": 52.9,
+      "dominantTeam": "Delhi Capitals"
+    },
+    {
+      "venue": "Buffalo Park",
+      "matches": 3,
+      "batFirstWins": 2,
+      "fieldFirstWins": 1,
+      "batFirstPct": 66.7,
+      "fieldFirstPct": 33.3,
+      "dominantTeam": "Mumbai Indians"
+    },
+    {
+      "venue": "De Beers Diamond Oval",
+      "matches": 3,
+      "batFirstWins": 1,
+      "fieldFirstWins": 2,
+      "batFirstPct": 33.3,
+      "fieldFirstPct": 66.7,
+      "dominantTeam": "Punjab Kings"
+    },
+    {
+      "venue": "Dr DY Patil Sports Academy",
+      "matches": 17,
+      "batFirstWins": 7,
+      "fieldFirstWins": 10,
+      "batFirstPct": 41.2,
+      "fieldFirstPct": 58.8,
+      "dominantTeam": "Mumbai Indians"
+    },
+    {
+      "venue": "Dr DY Patil Sports Academy, Mumbai",
+      "matches": 20,
+      "batFirstWins": 10,
+      "fieldFirstWins": 10,
+      "batFirstPct": 50.0,
+      "fieldFirstPct": 50.0,
+      "dominantTeam": "Lucknow Super Giants"
+    },
+    {
+      "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+      "matches": 13,
+      "batFirstWins": 6,
+      "fieldFirstWins": 7,
+      "batFirstPct": 46.2,
+      "fieldFirstPct": 53.8,
+      "dominantTeam": "Sunrisers Hyderabad"
+    },
+    {
+      "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+      "matches": 4,
+      "batFirstWins": 2,
+      "fieldFirstWins": 2,
+      "batFirstPct": 50.0,
+      "fieldFirstPct": 50.0,
+      "dominantTeam": "Delhi Capitals"
+    },
+    {
+      "venue": "Dubai International Cricket Stadium",
+      "matches": 43,
+      "batFirstWins": 21,
+      "fieldFirstWins": 22,
+      "batFirstPct": 48.8,
+      "fieldFirstPct": 51.2,
+      "dominantTeam": "Chennai Super Kings"
+    },
+    {
+      "venue": "Eden Gardens",
+      "matches": 77,
+      "batFirstWins": 30,
+      "fieldFirstWins": 47,
+      "batFirstPct": 39.0,
+      "fieldFirstPct": 61.0,
+      "dominantTeam": "Kolkata Knight Riders"
+    },
+    {
+      "venue": "Eden Gardens, Kolkata",
+      "matches": 28,
+      "batFirstWins": 15,
+      "fieldFirstWins": 13,
+      "batFirstPct": 53.6,
+      "fieldFirstPct": 46.4,
+      "dominantTeam": "Kolkata Knight Riders"
+    },
+    {
+      "venue": "Feroz Shah Kotla",
+      "matches": 59,
+      "batFirstWins": 27,
+      "fieldFirstWins": 32,
+      "batFirstPct": 45.8,
+      "fieldFirstPct": 54.2,
+      "dominantTeam": "Delhi Capitals"
+    },
+    {
+      "venue": "Green Park",
+      "matches": 4,
+      "batFirstWins": 0,
+      "fieldFirstWins": 4,
+      "batFirstPct": 0.0,
+      "fieldFirstPct": 100.0,
+      "dominantTeam": "Gujarat Lions"
+    },
+    {
+      "venue": "Himachal Pradesh Cricket Association Stadium",
+      "matches": 9,
+      "batFirstWins": 5,
+      "fieldFirstWins": 4,
+      "batFirstPct": 55.6,
+      "fieldFirstPct": 44.4,
+      "dominantTeam": "Punjab Kings"
+    },
+    {
+      "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+      "matches": 9,
+      "batFirstWins": 6,
+      "fieldFirstWins": 3,
+      "batFirstPct": 66.7,
+      "fieldFirstPct": 33.3,
+      "dominantTeam": "Royal Challengers Bengaluru"
+    },
+    {
+      "venue": "Holkar Cricket Stadium",
+      "matches": 9,
+      "batFirstWins": 1,
+      "fieldFirstWins": 8,
+      "batFirstPct": 11.1,
+      "fieldFirstPct": 88.9,
+      "dominantTeam": "Punjab Kings"
+    },
+    {
+      "venue": "JSCA International Stadium Complex",
+      "matches": 7,
+      "batFirstWins": 2,
+      "fieldFirstWins": 5,
+      "batFirstPct": 28.6,
+      "fieldFirstPct": 71.4,
+      "dominantTeam": "Chennai Super Kings"
+    },
+    {
+      "venue": "Kingsmead",
+      "matches": 15,
+      "batFirstWins": 8,
+      "fieldFirstWins": 7,
+      "batFirstPct": 53.3,
+      "fieldFirstPct": 46.7,
+      "dominantTeam": "Delhi Capitals"
+    },
+    {
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "matches": 24,
+      "batFirstWins": 11,
+      "fieldFirstWins": 13,
+      "batFirstPct": 45.8,
+      "fieldFirstPct": 54.2,
+      "dominantTeam": "Royal Challengers Bengaluru"
+    },
+    {
+      "venue": "M. Chinnaswamy Stadium",
+      "matches": 62,
+      "batFirstWins": 26,
+      "fieldFirstWins": 36,
+      "batFirstPct": 41.9,
+      "fieldFirstPct": 58.1,
+      "dominantTeam": "Royal Challengers Bengaluru"
+    },
+    {
+      "venue": "M.Chinnaswamy Stadium",
+      "matches": 14,
+      "batFirstWins": 7,
+      "fieldFirstWins": 7,
+      "batFirstPct": 50.0,
+      "fieldFirstPct": 50.0,
+      "dominantTeam": "Royal Challengers Bengaluru"
+    },
+    {
+      "venue": "MA Chidambaram Stadium",
+      "matches": 96,
+      "batFirstWins": 51,
+      "fieldFirstWins": 45,
+      "batFirstPct": 53.1,
+      "fieldFirstPct": 46.9,
+      "dominantTeam": "Chennai Super Kings"
+    },
+    {
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+      "matches": 10,
+      "batFirstWins": 5,
+      "fieldFirstWins": 5,
+      "batFirstPct": 50.0,
+      "fieldFirstPct": 50.0,
+      "dominantTeam": "Punjab Kings"
+    },
+    {
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+      "matches": 7,
+      "batFirstWins": 3,
+      "fieldFirstWins": 4,
+      "batFirstPct": 42.9,
+      "fieldFirstPct": 57.1,
+      "dominantTeam": "Punjab Kings"
+    },
+    {
+      "venue": "Maharashtra Cricket Association Stadium",
+      "matches": 22,
+      "batFirstWins": 8,
+      "fieldFirstWins": 14,
+      "batFirstPct": 36.4,
+      "fieldFirstPct": 63.6,
+      "dominantTeam": "Rising Pune Supergiants"
+    },
+    {
+      "venue": "Maharashtra Cricket Association Stadium, Pune",
+      "matches": 13,
+      "batFirstWins": 10,
+      "fieldFirstWins": 3,
+      "batFirstPct": 76.9,
+      "fieldFirstPct": 23.1,
+      "dominantTeam": "Gujarat Titans"
+    },
+    {
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "matches": 41,
+      "batFirstWins": 20,
+      "fieldFirstWins": 21,
+      "batFirstPct": 48.8,
+      "fieldFirstPct": 51.2,
+      "dominantTeam": "Gujarat Titans"
+    },
+    {
+      "venue": "Nehru Stadium",
+      "matches": 5,
+      "batFirstWins": 3,
+      "fieldFirstWins": 2,
+      "batFirstPct": 60.0,
+      "fieldFirstPct": 40.0,
+      "dominantTeam": "Kochi Tuskers Kerala"
+    },
+    {
+      "venue": "New Wanderers Stadium",
+      "matches": 8,
+      "batFirstWins": 3,
+      "fieldFirstWins": 5,
+      "batFirstPct": 37.5,
+      "fieldFirstPct": 62.5,
+      "dominantTeam": "Royal Challengers Bengaluru"
+    },
+    {
+      "venue": "Newlands",
+      "matches": 6,
+      "batFirstWins": 4,
+      "fieldFirstWins": 2,
+      "batFirstPct": 66.7,
+      "fieldFirstPct": 33.3,
+      "dominantTeam": "Sunrisers Hyderabad"
+    },
+    {
+      "venue": "OUTsurance Oval",
+      "matches": 2,
+      "batFirstWins": 1,
+      "fieldFirstWins": 1,
+      "batFirstPct": 50.0,
+      "fieldFirstPct": 50.0,
+      "dominantTeam": "Punjab Kings"
+    },
+    {
+      "venue": "Punjab Cricket Association IS Bindra Stadium",
+      "matches": 56,
+      "batFirstWins": 24,
+      "fieldFirstWins": 32,
+      "batFirstPct": 42.9,
+      "fieldFirstPct": 57.1,
+      "dominantTeam": "Punjab Kings"
+    },
+    {
+      "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+      "matches": 5,
+      "batFirstWins": 3,
+      "fieldFirstWins": 2,
+      "batFirstPct": 60.0,
+      "fieldFirstPct": 40.0,
+      "dominantTeam": "Punjab Kings"
+    },
+    {
+      "venue": "Rajiv Gandhi International Cricket Stadium",
+      "matches": 48,
+      "batFirstWins": 19,
+      "fieldFirstWins": 29,
+      "batFirstPct": 39.6,
+      "fieldFirstPct": 60.4,
+      "dominantTeam": "Sunrisers Hyderabad"
+    },
+    {
+      "venue": "Rajiv Gandhi International Stadium",
+      "matches": 15,
+      "batFirstWins": 8,
+      "fieldFirstWins": 7,
+      "batFirstPct": 53.3,
+      "fieldFirstPct": 46.7,
+      "dominantTeam": "Sunrisers Hyderabad"
+    },
+    {
+      "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+      "matches": 25,
+      "batFirstWins": 13,
+      "fieldFirstWins": 12,
+      "batFirstPct": 52.0,
+      "fieldFirstPct": 48.0,
+      "dominantTeam": "Sunrisers Hyderabad"
+    },
+    {
+      "venue": "Sardar Patel Stadium, Motera",
+      "matches": 11,
+      "batFirstWins": 6,
+      "fieldFirstWins": 5,
+      "batFirstPct": 54.5,
+      "fieldFirstPct": 45.5,
+      "dominantTeam": "Rajasthan Royals"
+    },
+    {
+      "venue": "Saurashtra Cricket Association Stadium",
+      "matches": 9,
+      "batFirstWins": 3,
+      "fieldFirstWins": 6,
+      "batFirstPct": 33.3,
+      "fieldFirstPct": 66.7,
+      "dominantTeam": "Gujarat Lions"
+    },
+    {
+      "venue": "Sawai Mansingh Stadium",
+      "matches": 47,
+      "batFirstWins": 15,
+      "fieldFirstWins": 32,
+      "batFirstPct": 31.9,
+      "fieldFirstPct": 68.1,
+      "dominantTeam": "Rajasthan Royals"
+    },
+    {
+      "venue": "Sawai Mansingh Stadium, Jaipur",
+      "matches": 21,
+      "batFirstWins": 9,
+      "fieldFirstWins": 12,
+      "batFirstPct": 42.9,
+      "fieldFirstPct": 57.1,
+      "dominantTeam": "Rajasthan Royals"
+    },
+    {
+      "venue": "Shaheed Veer Narayan Singh International Stadium",
+      "matches": 6,
+      "batFirstWins": 2,
+      "fieldFirstWins": 4,
+      "batFirstPct": 33.3,
+      "fieldFirstPct": 66.7,
+      "dominantTeam": "Delhi Capitals"
+    },
+    {
+      "venue": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "matches": 2,
+      "batFirstWins": 0,
+      "fieldFirstWins": 2,
+      "batFirstPct": 0.0,
+      "fieldFirstPct": 100.0,
+      "dominantTeam": "Royal Challengers Bengaluru"
+    },
+    {
+      "venue": "Sharjah Cricket Stadium",
+      "matches": 28,
+      "batFirstWins": 10,
+      "fieldFirstWins": 18,
+      "batFirstPct": 35.7,
+      "fieldFirstPct": 64.3,
+      "dominantTeam": "Punjab Kings"
+    },
+    {
+      "venue": "Sheikh Zayed Stadium",
+      "matches": 27,
+      "batFirstWins": 11,
+      "fieldFirstWins": 16,
+      "batFirstPct": 40.7,
+      "fieldFirstPct": 59.3,
+      "dominantTeam": "Mumbai Indians"
+    },
+    {
+      "venue": "St George's Park",
+      "matches": 7,
+      "batFirstWins": 3,
+      "fieldFirstWins": 4,
+      "batFirstPct": 42.9,
+      "fieldFirstPct": 57.1,
+      "dominantTeam": "Chennai Super Kings"
+    },
+    {
+      "venue": "Subrata Roy Sahara Stadium",
+      "matches": 16,
+      "batFirstWins": 10,
+      "fieldFirstWins": 6,
+      "batFirstPct": 62.5,
+      "fieldFirstPct": 37.5,
+      "dominantTeam": "Pune Warriors"
+    },
+    {
+      "venue": "SuperSport Park",
+      "matches": 12,
+      "batFirstWins": 4,
+      "fieldFirstWins": 8,
+      "batFirstPct": 33.3,
+      "fieldFirstPct": 66.7,
+      "dominantTeam": "Rajasthan Royals"
+    },
+    {
+      "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+      "matches": 3,
+      "batFirstWins": 2,
+      "fieldFirstWins": 1,
+      "batFirstPct": 66.7,
+      "fieldFirstPct": 33.3,
+      "dominantTeam": "Sunrisers Hyderabad"
+    },
+    {
+      "venue": "Wankhede Stadium",
+      "matches": 72,
+      "batFirstWins": 35,
+      "fieldFirstWins": 37,
+      "batFirstPct": 48.6,
+      "fieldFirstPct": 51.4,
+      "dominantTeam": "Mumbai Indians"
+    },
+    {
+      "venue": "Wankhede Stadium, Mumbai",
+      "matches": 59,
+      "batFirstWins": 24,
+      "fieldFirstWins": 35,
+      "batFirstPct": 40.7,
+      "fieldFirstPct": 59.3,
+      "dominantTeam": "Mumbai Indians"
+    },
+    {
+      "venue": "Zayed Cricket Stadium, Abu Dhabi",
+      "matches": 8,
+      "batFirstWins": 3,
+      "fieldFirstWins": 5,
+      "batFirstPct": 37.5,
+      "fieldFirstPct": 62.5,
+      "dominantTeam": "Kolkata Knight Riders"
+    }
+  ],
+  "team_form": {
+    "Royal Challengers Bengaluru": 80.0,
+    "Kolkata Knight Riders": 60.0,
+    "Punjab Kings": 20.0,
+    "Chennai Super Kings": 40.0,
+    "Delhi Capitals": 60.0,
+    "Rajasthan Royals": 60.0,
+    "Sunrisers Hyderabad": 60.0,
+    "Mumbai Indians": 40.0,
+    "Kochi Tuskers Kerala": 40.0,
+    "Pune Warriors": 40.0,
+    "Rising Pune Supergiants": 60.0,
+    "Gujarat Lions": 20.0,
+    "Lucknow Super Giants": 40.0,
+    "Gujarat Titans": 40.0
+  }
+}
