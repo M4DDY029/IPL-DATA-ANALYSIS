@@ -2,8 +2,8 @@ This zip archive contains data files from Cricsheet in JSON format. This
 archive contains 1243 Indian Premier League matches.
 
 
-The JSON data files contained in this zip file are version 1.2.0 files. You
-can learn about the structure of these files at
+The JSON data files contained in this zip file are version 1.2.0, and 1.3.0
+files. You can learn about the structure of these files at
 https://cricsheet.org/format/json/
 
 
@@ -1265,3 +1265,7 @@ teams involved in the match.
 2008-04-19 - club - IPL - male - 335984 - Delhi Daredevils vs Rajasthan Royals
 2008-04-19 - club - IPL - male - 335983 - Kings XI Punjab vs Chennai Super Kings
 2008-04-18 - club - IPL - male - 335982 - Royal Challengers Bangalore vs Kolkata Knight Riders
+
+Match data is licensed for use under the Open Data Commons Attribution
+License. The full license text is included in this download in the LICENSE.txt
+file.
