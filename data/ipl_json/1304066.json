@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2022-04-10",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "TA Boult": "a818c1be",
         "Tapan Sharma": "b9aa2b6e",
         "YS Chahal": "57ee1fde"
+      },
+      "venues": {
+        "Wankhede Stadium, Mumbai": "9e236baa"
       }
     },
     "season": "2022",

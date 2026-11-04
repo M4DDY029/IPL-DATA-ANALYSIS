@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2014-05-26",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "V Sehwag": "8ba8195d",
         "VA Kulkarni": "8fe0c4f8",
         "WP Saha": "fe11caa6"
+      },
+      "venues": {
+        "Punjab Cricket Association Stadium, Mohali, Chandigarh": "f4fe4119"
       }
     },
     "season": 2014,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Kings XI Punjab"
     },
-    "venue": "Punjab Cricket Association Stadium, Mohali"
+    "venue": "Punjab Cricket Association Stadium, Mohali, Chandigarh"
   },
   "innings": [
     {

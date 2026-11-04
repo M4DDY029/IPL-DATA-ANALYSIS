@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-02",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "YA Abdulla": "4353bba5",
         "YK Pathan": "3c6ffae8",
         "Yuvraj Singh": "1c914163"
+      },
+      "venues": {
+        "Newlands, Cape Town": "a899c2b7"
       }
     },
     "season": 2009,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Kings XI Punjab"
     },
-    "venue": "Newlands"
+    "venue": "Newlands, Cape Town"
   },
   "innings": [
     {

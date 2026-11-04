@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2025-04-26",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -102,6 +102,9 @@
         "SM Curran": "e94915e6",
         "TM Head": "12b610c2",
         "Zeeshan Ansari": "36619795"
+      },
+      "venues": {
+        "MA Chidambaram Stadium": "6b0a6071"
       }
     },
     "season": "2025",
@@ -114,7 +117,7 @@
       "decision": "field",
       "winner": "Sunrisers Hyderabad"
     },
-    "venue": "MA Chidambaram Stadium, Chepauk, Chennai"
+    "venue": "MA Chidambaram Stadium"
   },
   "innings": [
     {

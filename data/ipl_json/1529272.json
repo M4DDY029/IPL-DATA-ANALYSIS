@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2026-04-20",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -102,6 +102,9 @@
         "Vijaykumar Vyshak": "54e52590",
         "XC Bartlett": "3b53243a",
         "YS Chahal": "57ee1fde"
+      },
+      "venues": {
+        "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh": "98010cd2"
       }
     },
     "season": "2026",

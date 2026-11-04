@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2013-04-19",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -94,6 +94,9 @@
         "PP Chawla": "98ae73b1",
         "Q de Kock": "372455c4",
         "RS Mahanama": "57910393"
+      },
+      "venues": {
+        "Rajiv Gandhi International Stadium, Uppal": "5094a793"
       }
     },
     "season": 2013,

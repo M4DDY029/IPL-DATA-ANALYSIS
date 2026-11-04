@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2019-04-13",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -99,6 +99,9 @@
         "SN Khan": "f088b960",
         "SPD Smith": "30a45b23",
         "SV Samson": "a4cc73aa"
+      },
+      "venues": {
+        "Sawai Mansingh Stadium, Jaipur": "5a985b66"
       }
     },
     "season": "2019",
@@ -111,7 +114,7 @@
       "decision": "field",
       "winner": "Rajasthan Royals"
     },
-    "venue": "Sawai Mansingh Stadium"
+    "venue": "Sawai Mansingh Stadium, Jaipur"
   },
   "innings": [
     {

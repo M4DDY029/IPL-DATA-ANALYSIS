@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2024-05-01",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -103,6 +103,9 @@
         "TH David": "f1f99156",
         "Tilak Varma": "b0482a1d",
         "UV Gandhe": "43dd4011"
+      },
+      "venues": {
+        "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow": "ed4e4230"
       }
     },
     "season": "2024",

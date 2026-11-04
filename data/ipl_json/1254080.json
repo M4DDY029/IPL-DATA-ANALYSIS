@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2021-04-28",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "Sandeep Sharma": "ce820073",
         "UV Gandhe": "43dd4011",
         "V Shankar": "0994d0ae"
+      },
+      "venues": {
+        "Arun Jaitley Stadium": "eef26f35"
       }
     },
     "season": "2021",
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Sunrisers Hyderabad"
     },
-    "venue": "Arun Jaitley Stadium, Delhi"
+    "venue": "Arun Jaitley Stadium"
   },
   "innings": [
     {

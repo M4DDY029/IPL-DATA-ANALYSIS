@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2023-04-26",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -102,6 +102,9 @@
         "Shubman Gill": "b4b99816",
         "V Shankar": "0994d0ae",
         "WP Saha": "fe11caa6"
+      },
+      "venues": {
+        "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow": "ed4e4230"
       }
     },
     "season": "2023",

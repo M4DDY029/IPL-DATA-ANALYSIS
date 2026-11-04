@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2016-05-19",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SP Narine": "9d430b40",
         "Shakib Al Hasan": "7dc35884",
         "YK Pathan": "3c6ffae8"
+      },
+      "venues": {
+        "Green Park, Kanpur": "9dd68e5f"
       }
     },
     "season": 2016,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Gujarat Lions"
     },
-    "venue": "Green Park"
+    "venue": "Green Park, Kanpur"
   },
   "innings": [
     {

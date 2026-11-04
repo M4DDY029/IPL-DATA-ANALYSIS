@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2019-04-26",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "Shubman Gill": "b4b99816",
         "VR Aaron": "0a3d54b9",
         "Y Prithvi Raj": "cfa4bd2b"
+      },
+      "venues": {
+        "Eden Gardens, Kolkata": "672f066b"
       }
     },
     "season": "2019",
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Rajasthan Royals"
     },
-    "venue": "Eden Gardens"
+    "venue": "Eden Gardens, Kolkata"
   },
   "innings": [
     {

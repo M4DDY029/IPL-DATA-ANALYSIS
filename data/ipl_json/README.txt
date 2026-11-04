@@ -2,8 +2,8 @@ This zip archive contains data files from Cricsheet in JSON format. This
 archive contains 1243 Indian Premier League matches.
 
 
-The JSON data files contained in this zip file are version 1.2.0, and 1.3.0
-files. You can learn about the structure of these files at
+The JSON data files contained in this zip file are version 1.3.0 files. You
+can learn about the structure of these files at
 https://cricsheet.org/format/json/
 
 

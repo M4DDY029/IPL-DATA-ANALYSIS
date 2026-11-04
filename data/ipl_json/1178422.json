@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2019-04-28",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SL Malinga": "a12e1d51",
         "SP Narine": "9d430b40",
         "Shubman Gill": "b4b99816"
+      },
+      "venues": {
+        "Eden Gardens, Kolkata": "672f066b"
       }
     },
     "season": "2019",
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Mumbai Indians"
     },
-    "venue": "Eden Gardens"
+    "venue": "Eden Gardens, Kolkata"
   },
   "innings": [
     {

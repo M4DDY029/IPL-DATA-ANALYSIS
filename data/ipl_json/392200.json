@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-02",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -99,6 +99,9 @@
         "Yuvraj Singh": "1c914163",
         "Z Khan": "91a4a398",
         "ZTA Ndamane": "545cc6db"
+      },
+      "venues": {
+        "Kingsmead, Durban": "25b64fb5"
       }
     },
     "season": 2009,
@@ -111,7 +114,7 @@
       "decision": "bat",
       "winner": "Kings XI Punjab"
     },
-    "venue": "Kingsmead"
+    "venue": "Kingsmead, Durban"
   },
   "innings": [
     {

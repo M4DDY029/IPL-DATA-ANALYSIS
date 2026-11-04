@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2019-05-07",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -99,6 +99,9 @@
         "SK Raina": "1dc12ab9",
         "SM Curran": "e94915e6",
         "SR Watson": "4329fbb5"
+      },
+      "venues": {
+        "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh": "f4fe4119"
       }
     },
     "season": "2019",
@@ -111,7 +114,7 @@
       "decision": "field",
       "winner": "Kings XI Punjab"
     },
-    "venue": "Punjab Cricket Association IS Bindra Stadium"
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
   },
   "innings": [
     {

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2023-04-12",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -102,6 +102,9 @@
         "Vinod Seshan": "a3357a27",
         "YBK Jaiswal": "6c19c6e5",
         "YS Chahal": "57ee1fde"
+      },
+      "venues": {
+        "MA Chidambaram Stadium": "6b0a6071"
       }
     },
     "season": "2023",
@@ -114,7 +117,7 @@
       "decision": "field",
       "winner": "Chennai Super Kings"
     },
-    "venue": "MA Chidambaram Stadium, Chepauk, Chennai"
+    "venue": "MA Chidambaram Stadium"
   },
   "innings": [
     {

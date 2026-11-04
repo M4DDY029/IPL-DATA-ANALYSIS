@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-04-28",
-    "revision": 3
+    "revision": 4
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "S Sohal": "3fca55af",
         "SL Malinga": "a12e1d51",
         "SR Tendulkar": "d2c2b2d5"
+      },
+      "venues": {
+        "Rajiv Gandhi International Stadium, Uppal": "5094a793"
       }
     },
     "season": 2011,

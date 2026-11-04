@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2013-05-16",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SR Watson": "4329fbb5",
         "STR Binny": "bd17b45f",
         "SV Samson": "a4cc73aa"
+      },
+      "venues": {
+        "Wankhede Stadium, Mumbai": "9e236baa"
       }
     },
     "season": 2013,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Rajasthan Royals"
     },
-    "venue": "Wankhede Stadium"
+    "venue": "Wankhede Stadium, Mumbai"
   },
   "innings": [
     {

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2024-03-23",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -103,6 +103,9 @@
         "T Stubbs": "85b3fab2",
         "Tanay Thyagarajan": "f1809c03",
         "V Narayan Kutty": "4bacee3d"
+      },
+      "venues": {
+        "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh": "98010cd2"
       }
     },
     "season": "2024",
@@ -115,7 +118,7 @@
       "decision": "field",
       "winner": "Punjab Kings"
     },
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"
   },
   "innings": [
     {

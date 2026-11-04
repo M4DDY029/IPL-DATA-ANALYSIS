@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-04-29",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "TL Suman": "aaa1b522",
         "V Kohli": "ba607b88",
         "VM Bandiwadekar": "e236db6b"
+      },
+      "venues": {
+        "Vidarbha Cricket Association Stadium, Jamtha, Nagpur": "a0fc5764"
       }
     },
     "season": "2009/10",
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Royal Challengers Bangalore"
     },
-    "venue": "Vidarbha Cricket Association Stadium, Jamtha"
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha, Nagpur"
   },
   "innings": [
     {

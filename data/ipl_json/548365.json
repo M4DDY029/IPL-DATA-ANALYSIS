@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2012-07-14",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "STR Binny": "bd17b45f",
         "SW Tait": "addfb70e",
         "VA Kulkarni": "8fe0c4f8"
+      },
+      "venues": {
+        "Sawai Mansingh Stadium, Jaipur": "5a985b66"
       }
     },
     "season": 2012,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Rajasthan Royals"
     },
-    "venue": "Sawai Mansingh Stadium"
+    "venue": "Sawai Mansingh Stadium, Jaipur"
   },
   "innings": [
     {

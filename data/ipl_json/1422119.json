@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2024-03-22",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -102,6 +102,9 @@
         "V Kohli": "ba607b88",
         "VK Sharma": "a7a49df4",
         "Yash Dayal": "7210d461"
+      },
+      "venues": {
+        "MA Chidambaram Stadium": "6b0a6071"
       }
     },
     "season": "2024",
@@ -114,7 +117,7 @@
       "decision": "bat",
       "winner": "Royal Challengers Bengaluru"
     },
-    "venue": "MA Chidambaram Stadium, Chepauk, Chennai"
+    "venue": "MA Chidambaram Stadium"
   },
   "innings": [
     {

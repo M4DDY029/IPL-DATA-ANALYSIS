@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2025-04-14",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -103,6 +103,9 @@
         "V Nigam": "5ffc0565",
         "Vinod Seshan": "a3357a27",
         "WG Jacks": "9caf69a1"
+      },
+      "venues": {
+        "Arun Jaitley Stadium": "eef26f35"
       }
     },
     "season": "2025",
@@ -115,7 +118,7 @@
       "decision": "field",
       "winner": "Delhi Capitals"
     },
-    "venue": "Arun Jaitley Stadium, Delhi"
+    "venue": "Arun Jaitley Stadium"
   },
   "innings": [
     {

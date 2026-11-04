@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2015-04-15",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SV Samson": "a4cc73aa",
         "TG Southee": "13c35c9e",
         "UBT Chand": "0c94f480"
+      },
+      "venues": {
+        "Narendra Modi Stadium, Ahmedabad": "dea6641b"
       }
     },
     "season": 2015,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Mumbai Indians"
     },
-    "venue": "Sardar Patel Stadium, Motera"
+    "venue": "Narendra Modi Stadium, Ahmedabad"
   },
   "innings": [
     {

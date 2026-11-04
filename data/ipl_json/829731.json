@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2015-04-18",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SS Iyer": "85ec8e33",
         "VK Sharma": "a7a49df4",
         "Yuvraj Singh": "1c914163"
+      },
+      "venues": {
+        "Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam": "deae8c56"
       }
     },
     "season": 2015,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Delhi Daredevils"
     },
-    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium"
+    "venue": "Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam"
   },
   "innings": [
     {

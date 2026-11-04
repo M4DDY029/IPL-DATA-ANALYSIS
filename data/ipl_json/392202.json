@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-02",
-    "revision": 3
+    "revision": 4
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SK Trivedi": "3d7e087f",
         "SK Warne": "bb18be76",
         "YK Pathan": "3c6ffae8"
+      },
+      "venues": {
+        "SuperSport Park, Centurion": "3dc422fc"
       }
     },
     "season": 2009,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Rajasthan Royals"
     },
-    "venue": "SuperSport Park"
+    "venue": "SuperSport Park, Centurion"
   },
   "innings": [
     {

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2021-04-15",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "Shakti Singh": "eb90d319",
         "TK Curran": "e86754b2",
         "VK Sharma": "a7a49df4"
+      },
+      "venues": {
+        "Wankhede Stadium, Mumbai": "9e236baa"
       }
     },
     "season": "2021",

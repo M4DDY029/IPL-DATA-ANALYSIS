@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2021-04-24",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "TA Boult": "a818c1be",
         "UV Gandhe": "43dd4011",
         "V Narayan Kutty": "4bacee3d"
+      },
+      "venues": {
+        "MA Chidambaram Stadium": "6b0a6071"
       }
     },
     "season": "2021",
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Punjab Kings"
     },
-    "venue": "MA Chidambaram Stadium, Chepauk, Chennai"
+    "venue": "MA Chidambaram Stadium"
   },
   "innings": [
     {

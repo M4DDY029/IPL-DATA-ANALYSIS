@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2014-05-03",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SP Narine": "9d430b40",
         "Shakib Al Hasan": "7dc35884",
         "YK Pathan": "3c6ffae8"
+      },
+      "venues": {
+        "JSCA International Stadium Complex, Ranchi": "cc5717a5"
       }
     },
     "season": 2014,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Chennai Super Kings"
     },
-    "venue": "JSCA International Stadium Complex"
+    "venue": "JSCA International Stadium Complex, Ranchi"
   },
   "innings": [
     {

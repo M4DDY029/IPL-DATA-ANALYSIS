@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2025-05-21",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -103,6 +103,9 @@
         "Tilak Varma": "b0482a1d",
         "V Nigam": "5ffc0565",
         "WG Jacks": "9caf69a1"
+      },
+      "venues": {
+        "Wankhede Stadium, Mumbai": "9e236baa"
       }
     },
     "season": "2025",

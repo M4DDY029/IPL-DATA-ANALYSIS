@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-01",
-    "revision": 3
+    "revision": 4
   },
   "info": {
     "balls_per_over": 6,
@@ -96,6 +96,9 @@
         "SK Warne": "bb18be76",
         "YK Pathan": "3c6ffae8",
         "Yashpal Singh": "297b26da"
+      },
+      "venues": {
+        "Newlands, Cape Town": "a899c2b7"
       }
     },
     "season": 2009,
@@ -108,7 +111,7 @@
       "decision": "field",
       "winner": "Kolkata Knight Riders"
     },
-    "venue": "Newlands"
+    "venue": "Newlands, Cape Town"
   },
   "innings": [
     {

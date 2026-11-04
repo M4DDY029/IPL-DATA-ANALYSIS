@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-06",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "Shoaib Akhtar": "10a91f35",
         "WP Saha": "fe11caa6",
         "YV Takawale": "4e04666c"
+      },
+      "venues": {
+        "Wankhede Stadium, Mumbai": "9e236baa"
       }
     },
     "season": "2007/08",
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Mumbai Indians"
     },
-    "venue": "Wankhede Stadium"
+    "venue": "Wankhede Stadium, Mumbai"
   },
   "innings": [
     {

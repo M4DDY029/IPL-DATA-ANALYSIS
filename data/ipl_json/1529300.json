@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2026-05-14",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -102,6 +102,9 @@
         "V Kohli": "ba607b88",
         "VG Arora": "7c3b3b78",
         "VR Iyer": "a24be938"
+      },
+      "venues": {
+        "Shaheed Veer Narayan Singh International Stadium, Raipur": "5d785c7e"
       }
     },
     "season": "2026",

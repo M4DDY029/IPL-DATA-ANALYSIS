@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2023-05-03",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -94,6 +94,9 @@
         "Ravi Bishnoi": "df064e1a",
         "S Dube": "a4e37e47",
         "TU Deshpande": "46a9bea1"
+      },
+      "venues": {
+        "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow": "ed4e4230"
       }
     },
     "season": "2023",

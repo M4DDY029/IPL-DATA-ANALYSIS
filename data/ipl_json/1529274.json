@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2026-04-23",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -103,6 +103,9 @@
         "T Stubbs": "85b3fab2",
         "TM Head": "12b610c2",
         "Vinod Seshan": "a3357a27"
+      },
+      "venues": {
+        "Rajiv Gandhi International Stadium, Uppal": "5094a793"
       }
     },
     "season": "2026",
@@ -115,7 +118,7 @@
       "decision": "field",
       "winner": "Delhi Capitals"
     },
-    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+    "venue": "Rajiv Gandhi International Stadium, Uppal"
   },
   "innings": [
     {

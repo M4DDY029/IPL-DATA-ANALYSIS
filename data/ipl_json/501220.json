@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-04-28",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "STR Binny": "bd17b45f",
         "SW Tait": "addfb70e",
         "Sunny Singh": "30e37810"
+      },
+      "venues": {
+        "Punjab Cricket Association Stadium, Mohali, Chandigarh": "f4fe4119"
       }
     },
     "season": 2011,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Rajasthan Royals"
     },
-    "venue": "Punjab Cricket Association Stadium, Mohali"
+    "venue": "Punjab Cricket Association Stadium, Mohali, Chandigarh"
   },
   "innings": [
     {

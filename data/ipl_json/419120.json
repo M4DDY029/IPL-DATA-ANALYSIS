@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-04-29",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "WPUJC Vaas": "bcce309e",
         "Y Nagar": "662c47a6",
         "Y Venugopal Rao": "fe763256"
+      },
+      "venues": {
+        "Barabati Stadium, Cuttack": "6cbe6b49"
       }
     },
     "season": "2009/10",
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Deccan Chargers"
     },
-    "venue": "Barabati Stadium"
+    "venue": "Barabati Stadium, Cuttack"
   },
   "innings": [
     {

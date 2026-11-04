@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2013-05-29",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -99,6 +99,9 @@
         "SJA Taufel": "4b43d5ac",
         "SK Raina": "1dc12ab9",
         "SL Malinga": "a12e1d51"
+      },
+      "venues": {
+        "Eden Gardens, Kolkata": "672f066b"
       }
     },
     "season": 2013,
@@ -111,7 +114,7 @@
       "decision": "bat",
       "winner": "Mumbai Indians"
     },
-    "venue": "Eden Gardens"
+    "venue": "Eden Gardens, Kolkata"
   },
   "innings": [
     {

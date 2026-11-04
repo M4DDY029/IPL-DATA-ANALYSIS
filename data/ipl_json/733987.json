@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2014-05-08",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "V Sehwag": "8ba8195d",
         "VA Kulkarni": "8fe0c4f8",
         "WP Saha": "fe11caa6"
+      },
+      "venues": {
+        "Barabati Stadium, Cuttack": "6cbe6b49"
       }
     },
     "season": 2014,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Chennai Super Kings"
     },
-    "venue": "Barabati Stadium"
+    "venue": "Barabati Stadium, Cuttack"
   },
   "innings": [
     {

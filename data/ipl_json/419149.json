@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-04-29",
-    "revision": 3
+    "revision": 4
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "RS Sodhi": "a3ecf01f",
         "V Sehwag": "8ba8195d",
         "Yuvraj Singh": "1c914163"
+      },
+      "venues": {
+        "Feroz Shah Kotla, Delhi": "eef26f35"
       }
     },
     "season": "2009/10",
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Delhi Daredevils"
     },
-    "venue": "Feroz Shah Kotla"
+    "venue": "Feroz Shah Kotla, Delhi"
   },
   "innings": [
     {

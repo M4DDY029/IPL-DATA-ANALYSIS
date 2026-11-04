@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2020-11-10",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -99,6 +99,9 @@
         "Sandeep Sharma": "ce820073",
         "T Natarajan": "ce794613",
         "VK Sharma": "a7a49df4"
+      },
+      "venues": {
+        "Sheikh Zayed Stadium, Abu Dhabi": "12c104c1"
       }
     },
     "season": "2020/21",
@@ -111,7 +114,7 @@
       "decision": "bat",
       "winner": "Delhi Capitals"
     },
-    "venue": "Sheikh Zayed Stadium"
+    "venue": "Sheikh Zayed Stadium, Abu Dhabi"
   },
   "innings": [
     {

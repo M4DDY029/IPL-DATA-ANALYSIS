@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-01",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "V Sehwag": "8ba8195d",
         "Y Nagar": "662c47a6",
         "Y Venugopal Rao": "fe763256"
+      },
+      "venues": {
+        "Nehru Stadium, Kochi": "92dc91a4"
       }
     },
     "season": 2011,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Delhi Daredevils"
     },
-    "venue": "Nehru Stadium"
+    "venue": "Nehru Stadium, Kochi"
   },
   "innings": [
     {

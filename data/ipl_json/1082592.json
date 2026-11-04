@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2017-04-07",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SPD Smith": "30a45b23",
         "TG Southee": "13c35c9e",
         "VK Sharma": "a7a49df4"
+      },
+      "venues": {
+        "Maharashtra Cricket Association Stadium, Pune": "6f9052c3"
       }
     },
     "season": 2017,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Rising Pune Supergiant"
     },
-    "venue": "Maharashtra Cricket Association Stadium"
+    "venue": "Maharashtra Cricket Association Stadium, Pune"
   },
   "innings": [
     {

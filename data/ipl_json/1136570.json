@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2019-04-18",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "UV Gandhe": "43dd4011",
         "WP Saha": "fe11caa6",
         "YK Pathan": "3c6ffae8"
+      },
+      "venues": {
+        "Eden Gardens, Kolkata": "672f066b"
       }
     },
     "season": "2018",
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Sunrisers Hyderabad"
     },
-    "venue": "Eden Gardens"
+    "venue": "Eden Gardens, Kolkata"
   },
   "innings": [
     {

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-04-28",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SL Malinga": "a12e1d51",
         "SR Tendulkar": "d2c2b2d5",
         "VA Kulkarni": "8fe0c4f8"
+      },
+      "venues": {
+        "Wankhede Stadium, Mumbai": "9e236baa"
       }
     },
     "season": 2011,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Kochi Tuskers Kerala"
     },
-    "venue": "Wankhede Stadium"
+    "venue": "Wankhede Stadium, Mumbai"
   },
   "innings": [
     {

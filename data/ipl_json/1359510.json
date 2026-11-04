@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2023-04-26",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -103,6 +103,9 @@
         "VG Arora": "7c3b3b78",
         "VR Iyer": "a24be938",
         "Vijaykumar Vyshak": "54e52590"
+      },
+      "venues": {
+        "M Chinnaswamy Stadium, Bengaluru": "351ac0b1"
       }
     },
     "season": "2023",

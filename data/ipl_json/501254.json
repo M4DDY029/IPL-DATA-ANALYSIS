@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-15",
-    "revision": 3
+    "revision": 4
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "S Sreesanth": "6b8eb6e5",
         "SE Marsh": "508a1ea7",
         "SJ Srivastava": "2049f3a0"
+      },
+      "venues": {
+        "Holkar Cricket Stadium, Indore": "354f95b9"
       }
     },
     "season": 2011,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Kings XI Punjab"
     },
-    "venue": "Holkar Cricket Stadium"
+    "venue": "Holkar Cricket Stadium, Indore"
   },
   "innings": [
     {

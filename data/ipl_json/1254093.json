@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2021-10-05",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -99,6 +99,9 @@
         "SV Samson": "a4cc73aa",
         "TA Boult": "a818c1be",
         "YBK Jaiswal": "6c19c6e5"
+      },
+      "venues": {
+        "Sharjah Cricket Stadium": "2fa1bb17"
       }
     },
     "season": "2021",

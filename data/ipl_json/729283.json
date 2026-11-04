@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2014-04-25",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SK Raina": "1dc12ab9",
         "V Sehwag": "8ba8195d",
         "WP Saha": "fe11caa6"
+      },
+      "venues": {
+        "Sheikh Zayed Stadium, Abu Dhabi": "12c104c1"
       }
     },
     "season": 2014,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Chennai Super Kings"
     },
-    "venue": "Sheikh Zayed Stadium"
+    "venue": "Sheikh Zayed Stadium, Abu Dhabi"
   },
   "innings": [
     {

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2021-10-01",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "TG Southee": "13c35c9e",
         "TL Seifert": "4663bd23",
         "VR Iyer": "a24be938"
+      },
+      "venues": {
+        "Dubai International Cricket Stadium": "a48e1e3a"
       }
     },
     "season": "2021",

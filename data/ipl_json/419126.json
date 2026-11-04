@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-04-29",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "WPUJC Vaas": "bcce309e",
         "Y Venugopal Rao": "fe763256",
         "YK Pathan": "3c6ffae8"
+      },
+      "venues": {
+        "Sardar Patel Stadium, Motera, Ahmedabad": "dea6641b"
       }
     },
     "season": "2009/10",
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Deccan Chargers"
     },
-    "venue": "Sardar Patel Stadium, Motera"
+    "venue": "Sardar Patel Stadium, Motera, Ahmedabad"
   },
   "innings": [
     {

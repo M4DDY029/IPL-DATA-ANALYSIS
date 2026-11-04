@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-01",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -99,6 +99,9 @@
         "YA Abdulla": "4353bba5",
         "Yashpal Singh": "297b26da",
         "Yuvraj Singh": "1c914163"
+      },
+      "venues": {
+        "Kingsmead, Durban": "25b64fb5"
       }
     },
     "season": 2009,
@@ -111,7 +114,7 @@
       "decision": "field",
       "winner": "Kolkata Knight Riders"
     },
-    "venue": "Kingsmead"
+    "venue": "Kingsmead, Durban"
   },
   "innings": [
     {

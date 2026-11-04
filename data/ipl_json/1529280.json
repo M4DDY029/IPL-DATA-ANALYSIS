@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2026-04-27",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -100,6 +100,9 @@
         "Shubman Gill": "b4b99816",
         "Urvil Patel": "cf59b3f0",
         "Washington Sundar": "f19ccfad"
+      },
+      "venues": {
+        "MA Chidambaram Stadium": "6b0a6071"
       }
     },
     "season": "2026",
@@ -112,7 +115,7 @@
       "decision": "field",
       "winner": "Gujarat Titans"
     },
-    "venue": "MA Chidambaram Stadium, Chepauk, Chennai"
+    "venue": "MA Chidambaram Stadium"
   },
   "innings": [
     {

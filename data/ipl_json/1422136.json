@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2024-04-06",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -102,6 +102,9 @@
         "TM Head": "12b610c2",
         "TU Deshpande": "46a9bea1",
         "YC Barde": "b90f3346"
+      },
+      "venues": {
+        "Rajiv Gandhi International Stadium, Uppal": "5094a793"
       }
     },
     "season": "2024",
@@ -114,7 +117,7 @@
       "decision": "field",
       "winner": "Sunrisers Hyderabad"
     },
-    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+    "venue": "Rajiv Gandhi International Stadium, Uppal"
   },
   "innings": [
     {

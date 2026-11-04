@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2017-04-22",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "SS Iyer": "85ec8e33",
         "SV Samson": "a4cc73aa",
         "Z Khan": "91a4a398"
+      },
+      "venues": {
+        "Wankhede Stadium, Mumbai": "9e236baa"
       }
     },
     "season": 2017,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Delhi Daredevils"
     },
-    "venue": "Wankhede Stadium"
+    "venue": "Wankhede Stadium, Mumbai"
   },
   "innings": [
     {

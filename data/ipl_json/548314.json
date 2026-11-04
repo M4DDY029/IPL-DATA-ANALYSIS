@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2012-07-13",
-    "revision": 3
+    "revision": 4
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "S Dhawan": "0a476045",
         "SL Malinga": "a12e1d51",
         "TL Suman": "aaa1b522"
+      },
+      "venues": {
+        "Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam": "deae8c56"
       }
     },
     "season": 2012,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Deccan Chargers"
     },
-    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium"
+    "venue": "Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam"
   },
   "innings": [
     {

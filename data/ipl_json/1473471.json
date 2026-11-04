@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2025-04-24",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -102,6 +102,9 @@
         "XC Bartlett": "3b53243a",
         "YS Chahal": "57ee1fde",
         "Yash Dayal": "7210d461"
+      },
+      "venues": {
+        "M Chinnaswamy Stadium, Bengaluru": "351ac0b1"
       }
     },
     "season": "2025",

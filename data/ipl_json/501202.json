@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-04-28",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "Sunny Singh": "30e37810",
         "WD Parnell": "3a60e0b5",
         "Yuvraj Singh": "1c914163"
+      },
+      "venues": {
+        "Dr DY Patil Sports Academy, Navi Mumbai": "07159bf0"
       }
     },
     "season": 2011,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Kings XI Punjab"
     },
-    "venue": "Dr DY Patil Sports Academy"
+    "venue": "Dr DY Patil Sports Academy, Navi Mumbai"
   },
   "innings": [
     {

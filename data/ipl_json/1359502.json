@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2023-04-20",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -104,6 +104,9 @@
         "UT Yadav": "cc1e8c68",
         "VR Iyer": "a24be938",
         "YV Dhull": "dd7e9b3b"
+      },
+      "venues": {
+        "Arun Jaitley Stadium": "eef26f35"
       }
     },
     "season": "2023",
@@ -116,7 +119,7 @@
       "decision": "field",
       "winner": "Delhi Capitals"
     },
-    "venue": "Arun Jaitley Stadium, Delhi"
+    "venue": "Arun Jaitley Stadium"
   },
   "innings": [
     {

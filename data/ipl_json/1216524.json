@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2020-10-27",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -99,6 +99,9 @@
         "TU Deshpande": "46a9bea1",
         "V Shankar": "0994d0ae",
         "WP Saha": "fe11caa6"
+      },
+      "venues": {
+        "Dubai International Cricket Stadium": "a48e1e3a"
       }
     },
     "season": "2020/21",

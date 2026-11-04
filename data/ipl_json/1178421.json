@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2019-04-28",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "V Kohli": "ba607b88",
         "Washington Sundar": "f19ccfad",
         "YS Chahal": "57ee1fde"
+      },
+      "venues": {
+        "Feroz Shah Kotla, Delhi": "eef26f35"
       }
     },
     "season": "2019",
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Delhi Capitals"
     },
-    "venue": "Arun Jaitley Stadium"
+    "venue": "Feroz Shah Kotla, Delhi"
   },
   "innings": [
     {

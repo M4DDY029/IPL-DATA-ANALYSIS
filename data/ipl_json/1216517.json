@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2020-10-20",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -96,6 +96,9 @@
         "Ravi Bishnoi": "df064e1a",
         "SA Yadav": "271f83cd",
         "TA Boult": "a818c1be"
+      },
+      "venues": {
+        "Dubai International Cricket Stadium": "a48e1e3a"
       }
     },
     "season": "2020/21",

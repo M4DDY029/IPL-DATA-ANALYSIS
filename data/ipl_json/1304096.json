@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2022-05-07",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "Shakti Singh": "eb90d319",
         "Shashank Singh": "26989d80",
         "Umran Malik": "81c08fa3"
+      },
+      "venues": {
+        "Brabourne Stadium, Mumbai": "8d1d7db9"
       }
     },
     "season": "2022",

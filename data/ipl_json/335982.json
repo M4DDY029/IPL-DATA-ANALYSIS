@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-06",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "W Jaffer": "619aa81f",
         "WP Saha": "fe11caa6",
         "Z Khan": "91a4a398"
+      },
+      "venues": {
+        "M Chinnaswamy Stadium, Bangalore": "351ac0b1"
       }
     },
     "season": "2007/08",
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Royal Challengers Bangalore"
     },
-    "venue": "M Chinnaswamy Stadium"
+    "venue": "M Chinnaswamy Stadium, Bangalore"
   },
   "innings": [
     {

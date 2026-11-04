@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2013-05-19",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "VA Kulkarni": "8fe0c4f8",
         "WD Parnell": "3a60e0b5",
         "Yuvraj Singh": "1c914163"
+      },
+      "venues": {
+        "Maharashtra Cricket Association Stadium, Pune": "6f9052c3"
       }
     },
     "season": 2013,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Pune Warriors"
     },
-    "venue": "Subrata Roy Sahara Stadium"
+    "venue": "Maharashtra Cricket Association Stadium, Pune"
   },
   "innings": [
     {

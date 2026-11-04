@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2014-05-06",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "S Nadeem": "9d80c5e1",
         "SK Raina": "1dc12ab9",
         "WD Parnell": "3a60e0b5"
+      },
+      "venues": {
+        "Feroz Shah Kotla, Delhi": "eef26f35"
       }
     },
     "season": 2014,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Chennai Super Kings"
     },
-    "venue": "Feroz Shah Kotla"
+    "venue": "Feroz Shah Kotla, Delhi"
   },
   "innings": [
     {

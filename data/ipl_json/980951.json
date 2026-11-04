@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2016-04-30",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "UT Yadav": "cc1e8c68",
         "YK Pathan": "3c6ffae8",
         "Z Khan": "91a4a398"
+      },
+      "venues": {
+        "Feroz Shah Kotla, Delhi": "eef26f35"
       }
     },
     "season": 2016,
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Kolkata Knight Riders"
     },
-    "venue": "Feroz Shah Kotla"
+    "venue": "Feroz Shah Kotla, Delhi"
   },
   "innings": [
     {

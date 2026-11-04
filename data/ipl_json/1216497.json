@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2020-10-25",
-    "revision": 1
+    "revision": 2
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "Shubman Gill": "b4b99816",
         "TU Deshpande": "46a9bea1",
         "UV Gandhe": "43dd4011"
+      },
+      "venues": {
+        "Sheikh Zayed Stadium, Abu Dhabi": "12c104c1"
       }
     },
     "season": "2020/21",
@@ -110,7 +113,7 @@
       "decision": "field",
       "winner": "Delhi Capitals"
     },
-    "venue": "Sheikh Zayed Stadium"
+    "venue": "Sheikh Zayed Stadium, Abu Dhabi"
   },
   "innings": [
     {

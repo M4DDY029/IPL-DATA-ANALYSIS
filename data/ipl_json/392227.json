@@ -1,8 +1,8 @@
 {
   "meta": {
-    "data_version": "1.2.0",
+    "data_version": "1.3.0",
     "created": "2011-05-02",
-    "revision": 2
+    "revision": 3
   },
   "info": {
     "balls_per_over": 6,
@@ -98,6 +98,9 @@
         "ST Jayasuriya": "f233bbb4",
         "YV Takawale": "4e04666c",
         "Yashpal Sharma": "e22d7ccb"
+      },
+      "venues": {
+        "St George's Park, Port Elizabeth": "e8345861"
       }
     },
     "season": 2009,
@@ -110,7 +113,7 @@
       "decision": "bat",
       "winner": "Mumbai Indians"
     },
-    "venue": "St George's Park"
+    "venue": "St George's Park, Port Elizabeth"
   },
   "innings": [
     {
